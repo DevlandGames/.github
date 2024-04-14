@@ -18,6 +18,4 @@ Stay connected and updated on our latest news, events, and behind-the-scenes pee
 ## Contact Us
 Have questions or want to learn more about Devland? Feel free to reach out to us:
 - Email: contact@devland.com
-- Discord: [Join Our Discord Server](https://discord.gg/devland)
-
 ![Devland Cover](devland_cover.png)
