@@ -12,7 +12,7 @@ Whether you're a seasoned gamer or just starting out, Devland invites you to joi
 ## Follow Us on Social Media
 Stay connected and updated on our latest news, events, and behind-the-scenes peeks by following us on social media:
 - **Instagram:** [devlandgames](https://www.instagram.com/devlandgames/)
-- **YouTube:** [Devland-dp5z](https://www.youtube.com/@Devland-dp5z)
+- **YouTube:** [devlandgames](https://www.youtube.com/@devlandgames)
 - **X:** [DevlandConnect](https://twitter.com/DevlandConnect)
 
 ## Contact Us
